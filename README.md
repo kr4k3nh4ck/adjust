@@ -4,6 +4,10 @@ Hi,
 
 In order to test the aggregate function you can just execute find_min_and_max.sql file.
 
+Unzip the file in the tmp directory. Then,
+
+psql -f /tmp/ajust/find_min_and_max.sql
+
 Also, you can use follwoing links:
 
 For integer data type:
